@@ -14,8 +14,8 @@ const fontSans = FontSans({
 // });
 
 export const metadata: Metadata = {
-  title: "Summerize - AI-Powered PDF Summerization",
-  description: "Summerizer is an app for Summerizing PDF",
+  title: "AiSummerize - AI-Powered PDF Summerization",
+  description: "Save hours of reading time. Transform lengthy PDFs into clear, accurate summeries in seconds with our advanced AI technology.",
 };
 
 export default function RootLayout({
